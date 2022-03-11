@@ -2,8 +2,8 @@
 ### Pode me chamar de Angel :)
 
 🌱 Aprendendo Java e algumas coisinhas mais por meio da Generation Brasil.
-😄 ela/dela/she
-📫 <a href="https://www.linkedin.com/in/angelamendonca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+#😄 ela/dela/she
+#📫 <a href="https://www.linkedin.com/in/angelamendonca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 
 <!--
